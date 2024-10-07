@@ -10,7 +10,7 @@ A mobile application focused on enhancing safety for women, developed using Flut
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Contributing](#contributing)
-6. [License](#license)
+
 ## Features
 
 ### Quotes Section
